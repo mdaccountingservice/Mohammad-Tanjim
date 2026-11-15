@@ -11,7 +11,7 @@
 <style>
 :root {
   --navy: #10243a;
-  --blue: #193954;
+  --white: #193954;
   --gold: #c99d55;
   --white: #ffffff;
   --bg: #f2f5f8;
