@@ -439,7 +439,6 @@ Detail-oriented Accountant and Bookkeeper with over 8 years of experience in fin
 <div id="arabic" class="arabic" lang="ar">
 
 <header class="hero">
-<img class="photo" src="assets/profile.jpg" alt="محمد تنزيم">
 <div class="hero-copy">
 <div class="eyebrow">الملف المهني</div>
 <h1>محمد تنزيم</h1>
